@@ -4,6 +4,7 @@ A collection of functionality that extend the official Flix library.
 
 ## Modules
 
+- `Extras.Graph` — functions on directed graphs represented as collections of edges.
 - `Extras.Queue` — an immutable first-in, first-out queue.
 
 ## Usage

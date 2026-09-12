@@ -18,6 +18,8 @@
 /// The `Extras` module is a collection of submodules that extend the official
 /// Flix library, each offering a self-contained piece of functionality:
 ///
+/// - `Extras.Graph` is a library of functions on directed graphs represented
+///   as collections of edges.
 /// - `Extras.Queue` is an immutable first-in, first-out queue.
 ///
 pub mod Extras {
