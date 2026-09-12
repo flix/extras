@@ -16,8 +16,6 @@
 
 pub mod Extras.Queue {
 
-    use Extras.Queue
-
     ///
     /// The Queue type.
     ///
