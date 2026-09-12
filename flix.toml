@@ -3,4 +3,4 @@ name        = "extras"
 description = "test"
 version     = "0.1.0"
 flix        = "0.75.3"
-authors     = ["Magnus Madsen <magnus.madsen@users.noreply.github.com>"]
+authors     = ["Magnus Madsen <magnus-madsen@users.noreply.github.com>"]
