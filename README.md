@@ -15,5 +15,5 @@ Add the package to the `flix.toml` of your own project:
 
 ```toml
 [dependencies]
-"github:flix/extras" = "0.1.0"
+"github:flix/extras" = "0.2.0"
 ```
