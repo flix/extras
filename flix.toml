@@ -4,3 +4,4 @@ description = "test"
 version     = "0.2.0"
 flix        = "0.75.3"
 authors     = ["Magnus Madsen <magnus-madsen@users.noreply.github.com>"]
+repository  = "github:flix/extras"
