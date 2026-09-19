@@ -15,14 +15,5 @@ Add the package to the `flix.toml` of your own project:
 
 ```toml
 [dependencies]
-"github:flix/extras" = "0.2.0"
-```
-
-Flix Extras uses effects that require an unrestricted security context. If your
-project is built with restricted security, declare the dependency in its long
-form instead:
-
-```toml
-[dependencies]
 "github:flix/extras" = { version = "0.2.0", security = "unrestricted" }
 ```
